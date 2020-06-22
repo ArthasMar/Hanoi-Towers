@@ -1,0 +1,10 @@
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.exe.config
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.exe
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\bin\Debug\Hanoi Towers.pdb
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csprojAssemblyReference.cache
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Form1.resources
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi_Towers.Properties.Resources.resources
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.GenerateResource.cache
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.csproj.CoreCompileInputs.cache
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.exe
+C:\Users\VNA.17\Desktop\Hanoi Towers\Hanoi Towers\obj\Debug\Hanoi Towers.pdb
